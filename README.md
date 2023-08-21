@@ -1,2 +1,4 @@
 # Pizza Store
-come lets order some spicy pizza's
+Come let's order some spicy pizzas
+
+"What's On The Menu?" - *'Me' N 'U'*
